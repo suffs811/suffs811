@@ -9,8 +9,8 @@ Thanks for stopping by!
 ## [The Terminator](https://github.com/suffs811/the-terminator)
 a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest
 
-## [Web Extensions](https://github.com/suffs811/web-extensions)
-working with web extensions to make life more efficient
+## [Projects](https://github.com/suffs811/projects)
+my portfolio of projects written in various languages! (python, C++, javascript)
 
 ## [AI-ML](https://github.com/suffs811/AI-ML)
 experimenting with artificial intelligence and machine learning for penetration testing

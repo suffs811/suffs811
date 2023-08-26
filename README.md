@@ -14,3 +14,6 @@ my portfolio of projects written in various languages! (python, C++, javascript)
 
 ## [AI-ML](https://github.com/suffs811/AI-ML)
 experimenting with artificial intelligence and machine learning for penetration testing
+
+## [Certifications](https://github.com/suffs811/certifications)
+repo for storing cybersecurity and programming certifications

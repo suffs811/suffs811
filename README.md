@@ -12,6 +12,9 @@ a tool for automating common techniques for the enumeration, privilege escalatio
 ## [Fuzzler](https://github.com/suffs811/fuzzler)
 a Python script that uses Machine Learning/Natural Language Processing to generate tailored password lists
 
+## [Fuzzler Limited - Chrome Extension](https://github.com/suffs811/fuzzler-ext)
+a Chrome extension for pentesting that creates tailored password lists by crawling a webpage and fuzzing each word according to specific rules
+
 ## [Analysis of Moral Values Using NLP](https://github.com/suffs811/pluralism-thesis)
 a Python script written for my master's thesis that analyzes the moral values of various wordlviews and compares them using Natural Language Processing
 

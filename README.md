@@ -16,7 +16,10 @@ a Python script that uses Machine Learning/Natural Language Processing to genera
 a Chrome extension for pentesting that creates tailored password lists by crawling a webpage and fuzzing each word according to specific rules
 
 ## [Analysis of Moral Values Using NLP](https://github.com/suffs811/pluralism-thesis)
-a Python script written for my master's thesis that analyzes the moral values of various wordlviews and compares them using Natural Language Processing
+a Python script written for my master's thesis that analyzes the moral values of various worldviews and compares them using Natural Language Processing
+
+## [CyberoseAI](https://github.com/suffs811/cyberose)
+node.js app for receiving daily emails of cybersecurity articles summarized by Google Cloud's Vertex NLP AI, deployed on Google Cloud's App Engine.
 
 ## [Projects](https://github.com/suffs811/projects)
 my portfolio of projects written in various languages! (Python, C++, Javascript)

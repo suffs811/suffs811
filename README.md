@@ -22,7 +22,7 @@ a Python script written for my master's thesis that analyzes the moral values of
 node.js app for receiving daily emails of cybersecurity articles summarized by Google Cloud's Vertex NLP AI, deployed on Google Cloud's App Engine, emailed using Gmail API
 
 ## [Projects](https://github.com/suffs811/projects)
-my portfolio of projects written in various languages! (Python, C++, Javascript)
+my portfolio of projects written in various languages! (Python, C++, Javascript, Nodejs, Swift, Go)
 
 ## [AI-ML](https://github.com/suffs811/AI-ML)
 experimenting with artificial intelligence and machine learning for penetration testing

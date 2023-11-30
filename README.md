@@ -1,6 +1,6 @@
 # hi, my name is Tanner
 
-i am exceedingly curious about many things cybersecurity and AI/ML.
+i am exceedingly curious about many things relating to cybersecurity and artificial intelligence/machine learning.
 
 break my projects and make them better!
 

@@ -2,7 +2,7 @@
 
 i am exceedingly curious about many things relating to cybersecurity and artificial intelligence/machine learning 🧠
 
-break my projects and make them better 💯
+feel free to break my projects and make them better 💯
 
 thanks for stopping by 👋
 

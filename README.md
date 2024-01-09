@@ -15,7 +15,7 @@ a Python script that uses Machine Learning/Natural Language Processing to genera
 ## [Fuzzler Limited - Chrome Extension](https://github.com/suffs811/fuzzler-ext)
 a Chrome extension for pentesting that creates tailored password lists by crawling a webpage and fuzzing each word according to specific rules
 
-## [Analysis of Moral Values Using NLP](https://github.com/suffs811/pluralism-thesis)
+## [Analysis of Moral Values Using ML/NLP](https://github.com/suffs811/pluralism-thesis)
 a Python script written for my master's thesis that analyzes the moral values of various worldviews and compares them using Natural Language Processing
 
 ## [CyberoseAI](https://github.com/suffs811/cyberose)
@@ -25,7 +25,7 @@ node.js app for receiving daily emails of cybersecurity articles summarized by G
 my portfolio of projects written in various languages! (Python, C++, Javascript, Nodejs, Swift, Go)
 
 ## [AI-ML](https://github.com/suffs811/AI-ML)
-experimenting with artificial intelligence and machine learning for penetration testing
+small experiments with artificial intelligence and machine learning for penetration testing
 
 ## [Certifications](https://github.com/suffs811/certifications)
 repo for storing cybersecurity and programming certifications

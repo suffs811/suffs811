@@ -7,7 +7,7 @@ feel free to break my projects and make them better 💯
 thanks for stopping by 👋
 
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
-various pentesting tools i made to make my life easier (binq, cmds.py, fuzzler, terminator)
+various pentesting tools to make life easier (binq, cmds.py, fuzzler, terminator)
 
 ## [The Terminator](https://github.com/suffs811/the-terminator)
 a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest

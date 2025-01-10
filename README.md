@@ -1,6 +1,6 @@
 # hi, my name is Tanner
 
-i am exceedingly curious about many things relating to cybersecurity and artificial intelligence/machine learning 🧠
+i am exceedingly curious about many things relating to software development and artificial intelligence/machine learning 🧠
 
 feel free to break my projects and make them better 💯
 

@@ -1,4 +1,4 @@
-# hi, my name is Tanner
+# hi, my name is Tanner 🚀
 
 i am exceedingly curious about many things relating to software development and artificial intelligence/machine learning 🧠
 

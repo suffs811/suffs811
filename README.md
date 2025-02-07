@@ -6,6 +6,9 @@ feel free to break my projects and make them better 💯
 
 thanks for stopping by 👋
 
+## [Nexpense](https://github.com/nexus-stone-solutions/Nexpense)
+your new FREE expense tracker app
+
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator)
 

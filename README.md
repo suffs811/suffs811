@@ -6,6 +6,9 @@ feel free to break my projects and make them better 💯
 
 thanks for stopping by 👋
 
+## [Lit Pro](https://litpro.cloud)
+an automated academic literature review tool using various machine learning/natural language processing techniques
+
 ## [Nexpense](https://github.com/nexus-stone-solutions/Nexpense)
 your new FREE expense tracker app
 

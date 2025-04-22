@@ -15,6 +15,9 @@ your new FREE expense tracker app
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator)
 
+## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
+write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!
+
 ## [The Terminator](https://github.com/suffs811/the-terminator)
 a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest
 

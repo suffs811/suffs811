@@ -1,10 +1,13 @@
 # hi, my name is Tanner 🚀
 
-i am exceedingly curious about many things relating to software development and artificial intelligence/machine learning 🧠
+i am exceedingly curious about many things relating to penetration testing, software development, and artificial intelligence/machine learning 🧠
 
 feel free to break my projects and make them better 💯
 
 thanks for stopping by 👋
+
+## [Pentest Report Machine](https://github.com/suffs811/pentest-report-machine.git)
+creates a complete penetration testing report and saves it as a docx (Microsoft Word) file so you can easily edit it
 
 ## [Lit Pro](https://litpro.cloud)
 an automated academic literature review tool using various machine learning/natural language processing techniques

@@ -9,17 +9,17 @@ thanks for stopping by 👋
 ## [Pentest Report Machine](https://github.com/suffs811/pentest-report-machine.git)
 creates a complete penetration testing report and saves it as a docx (Microsoft Word) file so you can easily edit it
 
+## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
+various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator, subdomain-annihilator, md-table-gen)
+
 ## [Lit Pro](https://litpro.cloud)
 an automated academic literature review tool using various machine learning/natural language processing techniques
 
-## [Nexpense](https://github.com/nexus-stone-solutions/Nexpense)
-your new FREE expense tracker app
-
-## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
-various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator)
-
 ## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
 write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!
+
+## [Nexpense](https://github.com/nexus-stone-solutions/Nexpense)
+your new FREE expense tracker app
 
 ## [The Terminator](https://github.com/suffs811/the-terminator)
 a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest
@@ -33,8 +33,8 @@ a Chrome extension for pentesting that creates tailored password lists by crawli
 ## [Analysis of Moral Values Using ML/NLP](https://github.com/suffs811/pluralism-thesis)
 a Python script written for my master's thesis that analyzes the moral values of various worldviews and compares them using Natural Language Processing
 
-## [Projects](https://github.com/suffs811/projects)
-my portfolio of projects written in various languages! (Python, C++, Javascript, Nodejs, Swift, Go)
+## [Other Projects](https://github.com/suffs811/projects)
+my portfolio of basic projects written in various languages! (Python, C++, Javascript, Nodejs, Swift, Go)
 
 ## [Certifications](https://github.com/suffs811/certifications)
 repo for storing cybersecurity and programming certifications

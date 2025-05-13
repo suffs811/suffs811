@@ -7,7 +7,7 @@ feel free to break my projects and make them better 💯
 thanks for stopping by 👋
 
 ## [Pentest Report Machine](https://github.com/suffs811/pentest-report-machine.git)
-creates a complete penetration testing report and saves it as a docx (Microsoft Word) file so you can easily edit it
+creates a complete penetration testing or bug bounty report and saves it as a docx (Microsoft Word) file so you can easily edit it
 
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator, subdomain-annihilator, md-table-gen)

@@ -18,6 +18,9 @@ an automated academic literature review tool using various machine learning/natu
 ## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
 write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!
 
+## [PrintQ](https://github.com/suffs811/printq)
+a print job manager
+
 ## [Nexpense](https://github.com/nexus-stone-solutions/Nexpense)
 your new FREE expense tracker app
 

@@ -7,7 +7,7 @@ feel free to break my projects and make them better 💯
 thanks for stopping by 👋
 
 ## [GoEDR](https://github.com/suffs811/goedr)
-a simple, single-host EDR written in Go. React frontend, Go backend.
+a simple, single-host EDR written in Go.
 
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator, subdomain-annihilator, md-table-gen)

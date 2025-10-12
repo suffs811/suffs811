@@ -6,9 +6,6 @@ feel free to break my projects and make them better 💯
 
 thanks for stopping by 👋
 
-## [GoEDR](https://github.com/suffs811/goedr)
-a simple, single-host EDR written in Go.
-
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator, subdomain-annihilator, md-table-gen)
 
@@ -17,6 +14,9 @@ creates a complete penetration testing or bug bounty report and saves it as a do
 
 ## [Lit Pro](https://litpro.cloud)
 an automated academic literature review tool using various machine learning/natural language processing techniques
+
+## [GoEDR](https://github.com/suffs811/goedr)
+a simple, single-host EDR written in Go. React frontend, Go backend, custom noSQL ORM in Go.
 
 ## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
 write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!

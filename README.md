@@ -18,6 +18,9 @@ an automated academic literature review tool using various machine learning/natu
 ## [GoEDR](https://github.com/suffs811/goedr)
 a simple, single-host EDR written in Go. React frontend, Go backend, custom noSQL ORM in Go.
 
+## [Gofuzzler](https://github.com/suffs811/gofuzzler)
+a Golang tool that uses Natural Language Processing to generate tailored word lists
+
 ## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
 write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!
 
@@ -29,9 +32,6 @@ your new FREE expense tracker app
 
 ## [The Terminator](https://github.com/suffs811/the-terminator)
 a tool for automating common techniques for the enumeration, privilege escalation, persistence, exfiltration, and reporting stages of a pentest
-
-## [Fuzzler](https://github.com/suffs811/fuzzler)
-a Python script that uses Machine Learning/Natural Language Processing to generate tailored password lists
 
 ## [Fuzzler Limited - Chrome Extension](https://chromewebstore.google.com/detail/jlcpgbolpnnpbeaiiclkhjckkjepidgo?utm_source=item-share-cb)
 a Chrome extension for pentesting that creates tailored password lists by crawling a webpage and fuzzing each word according to specific rules

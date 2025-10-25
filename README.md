@@ -9,17 +9,17 @@ thanks for stopping by 👋
 ## [Pentesting Tools](https://github.com/suffs811/pentesting-tools)
 various pentesting scripts to make life easier (binq, cmds.py, nmapper, webrecon, fuzzler, terminator, subdomain-annihilator, md-table-gen)
 
-## [Pentest Report Machine](https://github.com/suffs811/pentest-report-machine.git)
-creates a complete penetration testing or bug bounty report and saves it as a docx (Microsoft Word) file so you can easily edit it
-
 ## [Lit Pro](https://litpro.cloud)
 an automated academic literature review tool using various machine learning/natural language processing techniques
 
 ## [GoEDR](https://github.com/suffs811/goedr)
-a simple, single-host EDR written in Go. React frontend, Go backend, custom noSQL ORM in Go.
+a simple, single-host EDR written in Go. React frontend, Go backend, custom Go noSQL ORM.
 
 ## [Gofuzzler](https://github.com/suffs811/gofuzzler)
 a Golang tool that uses Natural Language Processing to generate tailored word lists
+
+## [Pentest Report Machine](https://github.com/suffs811/pentest-report-machine.git)
+creates a complete penetration testing or bug bounty report and saves it as a docx (Microsoft Word) file so you can easily edit it
 
 ## [Write-ups](https://xtanner.medium.com/list/writeups-9d07a308a06c)
 write-ups and walkthroughs for CTFs, Hack The Box, TryHackMe, and more!
